@@ -1,0 +1,14 @@
+---
+description: IBM Watson IoT support
+fullname: lib.ibmcloud.iot
+info:
+    chip_manufacturer: '-'
+    chip_name: '-'
+    name: Zerynth IBM Cloud Watson IoT Library
+    type: IoT Cloud
+keywords:
+- watson
+- iot
+- ibmcloud
+title: IBM Cloud Watson IoT Library
+...
